@@ -19,14 +19,5 @@
         </blocks>
         
     </global>
-    <frontend>
-        <layout>
-            <updates>
-                <inchoo_xternal module="Inchoo_Xternal">
-                    <file>inchoo_xternal.xml</file>
-                </inchoo_xternal>
-            </updates>
-        </layout>
-    </frontend>
 
 </config>
