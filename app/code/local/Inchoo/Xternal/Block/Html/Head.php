@@ -32,7 +32,7 @@
  * @package    Inchoo_Xternal
  * @author     Vedran Subotic, Inchoo <web@inchoo.net>
  */
-class Inchoo_Xternal_Block_Html_Head extends Mage_Page_Block_Html_Head
+class Inchoo_Xternal_Block_Html_Head extends Diglin_UIOptimization_Block_Optimize_Head
 {
     /**
      * Initialize template
